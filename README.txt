@@ -30,10 +30,15 @@ in src >
              so we have gone from javascript to creating a html file 
     in the index.html file 
         you will see a"div" section that has a an id called 'root'
+        i aslo added some bootstrap and jsquery code here 
 
 next steps in development: 
     create a folder called components in the src folder
     inside that folder we will create a file called Nav.js
+    this will be the naigation part of the code to follow the links
+    Nav.js here uses react with ES6 
+    -- then we call that function in the src>app.js file 
+
 
     
     
